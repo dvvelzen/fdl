@@ -1,0 +1,8 @@
+_schema-version: '2.0'
+ID: fdl
+version: 0.0.1
+
+modules:
+ - name: fdljs
+   type: nodejs
+   path: fdljs
